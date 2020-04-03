@@ -1,0 +1,324 @@
+/* form outer */
+form {
+    position: absolute;
+    width: 800px;
+    height: 900px;
+    left: 350px;
+    padding: 20px 20px 0 20px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.penghasilan {
+    position: absolute;
+    width: 285px;
+    height: 28px;
+    left: 91px;
+    top: 89px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.nominal1 {
+    position: absolute;
+    width: 638px;
+    height: 31px;
+    left: 109px;
+    top: 128px;
+
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+
+    color: rgba(0, 0, 0, 0.37);
+
+}
+
+.pengeluaran {
+    position: absolute;
+    width: 665px;
+    height: 44px;
+    left: 91px;
+    top: 196px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.nominal2 {
+    position: absolute;
+    width: 638px;
+    height: 31px;
+    left: 109px;
+    top: 240px;
+
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+
+    color: rgba(0, 0, 0, 0.37);
+
+}
+
+.nisab {
+    position: absolute;
+    width: 638px;
+    height: 44px;
+    left: 91px;
+    top: 308px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.nominal3 {
+    position: absolute;
+    width: 638px;
+    height: 44px;
+    left: 109px;
+    top: 370px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+
+    color: #000000;
+
+}
+
+.hitung {
+    position: absolute;
+    width: 638px;
+    height: 44px;
+    left: 91px;
+    top: 451px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+.nominal4 {
+    position: absolute;
+    width: 638px;
+    height: 35px;
+    left: 109px;
+    top: 509px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+
+    color: #000000;
+}
+
+.hitungzakat1 {
+    position: absolute;
+    width: 411px;
+    height: 44px;
+    left: 91px;
+    top: 590px;
+
+    font-family: Lato;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #EDAB00;
+}
+
+.nominal5 {
+    position: absolute;
+    width: 638px;
+    height: 0px;
+    left: 91px;
+    top: 666px;
+
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+}
+
+.hitungzakat2 {
+    position: absolute;
+    width: 411px;
+    height: 44px;
+    left: 91px;
+    top: 715px;
+
+    font-family: Lato;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #EDAB00;
+
+}
+
+.nominal6 {
+    position: absolute;
+    width: 638px;
+    height: 0px;
+    left: 91px;
+    top: 791px;
+
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+}
+
+/* ZAKAT FITRAH */
+.fitrah {
+    /* padding: 0 20px 0 20px; */
+    width: 800px;
+}
+
+.fpenghasilan {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 113px;
+    top: 95px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.ftulisan {
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 130px;
+    top: 145px;
+
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.fnisab {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 113px;
+    top: 234px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+.ftulisan2 {
+    position: absolute;
+    width: 393px;
+    /* height: 31px; */
+    left: 130px;
+    top: 284px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+
+    color: #000000;
+}
+
+.fzakat {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 113px;
+    top: 368px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+
+}
+
+.ftulisan3 {
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 130px;
+    top: 418px;
+
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+
+    color: rgba(0, 0, 0, 0.37);
+}
